@@ -1,15 +1,15 @@
 {
-    "name": "artem-frolov/yii-sass",
+    "name": "tomaszbrunarski/yii-sass",
     "type": "library",
-    "description": "Sass (SCSS) and Compass support for the Yii framework",
+    "description": "Sass (SCSS) and Compass support for the Yii framework - fork",
     "keywords": ["yii","sass","compass","scss","css"],
-    "homepage": "https://github.com/artem-frolov/yii-sass",
+    "homepage": "https://github.com/tomaszbrunarski/yii-sass",
     "license": "MIT",
     "authors": [
         {
-            "name": "Artem Frolov",
-            "email": "artem@frolov.net",
-            "homepage": "http://frolov.net/",
+            "name": "Tomasz Brunarski",
+            "email": "tom@coderspeak.com",
+            "homepage": "http://coderspeak.com/",
             "role": "Developer"
         }
     ],
