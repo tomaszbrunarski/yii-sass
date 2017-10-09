@@ -1,4 +1,4 @@
-Sass (SCSS) and Compass support for the Yii framework
+[This is a fix for the library of Artem Frolov which fixes empty scss partials compilation] Sass (SCSS) and Compass support for the Yii framework
 ========
 yii-sass extension implements Sass and Compass support: compilation on-the-fly,
 publishing, registration in views.
